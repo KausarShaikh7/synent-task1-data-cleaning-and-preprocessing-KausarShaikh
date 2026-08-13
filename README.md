@@ -1,5 +1,6 @@
 # synent-task1-data-cleaning-and-preprocessing-KausarShaikh
 Data cleaning and preprocessing of the Titanic dataset using Python and Pandas, including missing value handling, duplicate removal, data type conversion, and column renaming.
+
 # Task 1: Data Cleaning & Preprocessing
 
 ## Problem Statement
@@ -29,11 +30,11 @@ The following steps were performed using Python and Pandas:
 8. Renamed selected columns to make them more readable and descriptive.
 9. Saved the cleaned dataset as `Titanic_Cleaned.csv`.
 
-## Results
+## Output
 
-The Titanic dataset was successfully cleaned and preprocessed. Missing values were handled appropriately, duplicate records were removed, selected data types were converted, and column names were made more readable.
+The cleaned dataset was successfully generated after preprocessing and saved as `Titanic_Cleaned.csv`.
 
-The final cleaned dataset is saved as `Titanic_Cleaned.csv` and is ready for further analysis.
+The final dataset is ready for further analysis after handling missing values, removing duplicate records, converting selected data types, and improving column names.
 
 ## Tools & Technologies
 
@@ -44,5 +45,5 @@ The final cleaned dataset is saved as `Titanic_Cleaned.csv` and is ready for fur
 ## Files
 
 - `Titanic.csv` – Original Titanic dataset
-- `Task 1 Internship.ipynb` – Jupyter Notebook containing the complete data cleaning and preprocessing process
-- `Titanic_Cleaned.csv` – Final cleaned dataset
+- `Task_1_internship.ipynb` – Jupyter Notebook containing the complete preprocessing process
+- `Titanic_Cleaned.csv` – Cleaned and preprocessed dataset
