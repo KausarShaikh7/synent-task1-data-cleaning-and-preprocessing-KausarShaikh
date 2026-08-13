@@ -14,7 +14,7 @@ The objective of this task is to clean and preprocess the raw Titanic dataset so
 - **File:** `Titanic.csv`
 - **Domain:** Passenger and survival information
 
-The dataset contains information about Titanic passengers, including passenger class, name, gender, age, ticket details, fare, cabin, embarkation point, and survival status.
+The dataset contains information about Titanic passengers, including passenger class, name, gender, age, number of siblings or spouses, number of parents or children aboard, ticket details, fare, cabin, embarkation point, and survival status.
 
 ## Approach
 
